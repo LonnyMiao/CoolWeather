@@ -120,6 +120,7 @@ public class ChooseAreaFragment extends Fragment {
             }
         });
         queryProvinces();
+        //提交一下看看
     }
 
     /**
